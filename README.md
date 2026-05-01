@@ -25,7 +25,7 @@ A secure, closed-domain Retrieval-Augmented Generation (RAG) chatbot for organiz
 
 ## 🌐 Overview
 
-The **ContextGuard AI** is an enterprise-grade, closed-domain question-answering system built on top of a Retrieval-Augmented Generation (RAG) pipeline. It empowers organizations to query their internal knowledge base — policies, handbooks, reports, SOPs — through a conversational AI interface, without ever reaching out to the public internet.
+The **Secure RAG AI** is an enterprise-grade, closed-domain question-answering system built on top of a Retrieval-Augmented Generation (RAG) pipeline. It empowers organizations to query their internal knowledge base — policies, handbooks, reports, SOPs — through a conversational AI interface, without ever reaching out to the public internet.
 
 ---
 
